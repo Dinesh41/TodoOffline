@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "680362213010",
+    "firebase_url": "https://todo-offline.firebaseio.com",
+    "project_id": "todo-offline",
+    "storage_bucket": "todo-offline.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680362213010:android:e65d407ea42289525ef04b",
+        "android_client_info": {
+          "package_name": "com.example.todo_offline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680362213010-o32icj4poa2bmgvqc7eirf27pa6f8j4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWZD9tf79fUlwWfwcXLqNepViaZuzvaA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680362213010-o32icj4poa2bmgvqc7eirf27pa6f8j4v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
